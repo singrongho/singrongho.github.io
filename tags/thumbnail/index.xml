@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thumbnail on rambler.tw</title>
+    <link>https://localhost:1313/tags/thumbnail/</link>
+    <description>Recent content in Thumbnail on rambler.tw</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+    <lastBuildDate>Mon, 10 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://localhost:1313/tags/thumbnail/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Thumbnails</title>
+      <link>https://localhost:1313/docs/thumbnails/</link>
+      <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost:1313/docs/thumbnails/</guid>
+      <description>Thumbnails # Blowfish was enhanced in order to make it easy to add visual support to your posts. To do so, you just need to place an image file (almost all formats are supported but we recommend .</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://localhost:1313/docs/thumbnails/featured.svg" />
+    </item>
+    
+  </channel>
+</rss>

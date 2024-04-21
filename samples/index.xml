@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Samples on rambler.tw</title>
+    <link>https://localhost:1313/samples/</link>
+    <description>Recent content in Samples on rambler.tw</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+    <lastBuildDate>Fri, 14 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://localhost:1313/samples/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Icons</title>
+      <link>https://localhost:1313/samples/icons/</link>
+      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost:1313/samples/icons/</guid>
+      <description>Blowfish has built-in support for a number of FontAwesome 6 icons. These can be included in your website through either the icon partial or icon shortcode.
+Additionally, custom icons are also fully supported.</description>
+      
+    </item>
+    
+    <item>
+      <title>Markdown</title>
+      <link>https://localhost:1313/samples/markdown/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost:1313/samples/markdown/</guid>
+      <description>&lt;p&gt;This article offers a sample of basic Markdown formatting that can be used in Blowfish, also it shows how some basic HTML elements are decorated.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Charts</title>
+      <link>https://localhost:1313/samples/charts/</link>
+      <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost:1313/samples/charts/</guid>
+      <description>Blowfish includes Chart.js for powerful charts and data visualisations.</description>
+      
+    </item>
+    
+    <item>
+      <title>First</title>
+      <link>https://localhost:1313/samples/first/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost:1313/samples/first/</guid>
+      <description>📖🏞️🧗🏽🐉🧙🏽‍♂️🧚🏽👸</description>
+      
+    </item>
+    
+  </channel>
+</rss>
