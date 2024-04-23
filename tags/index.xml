@@ -2,58 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>標籤 Tags on rambler.tw</title>
-    <link>https://singrongho.github.io/tags/</link>
+    <link>https://localhost:1313/tags/</link>
     <description>Recent content in 標籤 Tags on rambler.tw</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-    <lastBuildDate>Mon, 22 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://singrongho.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Jensen Huang</title>
-      <link>https://singrongho.github.io/tags/jensen-huang/</link>
+      <link>https://localhost:1313/tags/jensen-huang/</link>
       <pubDate>Mon, 22 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://singrongho.github.io/tags/jensen-huang/</guid>
+      <guid>https://localhost:1313/tags/jensen-huang/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Nvidia</title>
-      <link>https://singrongho.github.io/tags/nvidia/</link>
+      <link>https://localhost:1313/tags/nvidia/</link>
       <pubDate>Mon, 22 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://singrongho.github.io/tags/nvidia/</guid>
+      <guid>https://localhost:1313/tags/nvidia/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>TOEIC</title>
-      <link>https://singrongho.github.io/tags/toeic/</link>
+      <link>https://localhost:1313/tags/toeic/</link>
       <pubDate>Mon, 22 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://singrongho.github.io/tags/toeic/</guid>
+      <guid>https://localhost:1313/tags/toeic/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>英文聽力</title>
-      <link>https://singrongho.github.io/tags/%E8%8B%B1%E6%96%87%E8%81%BD%E5%8A%9B/</link>
+      <link>https://localhost:1313/tags/%E8%8B%B1%E6%96%87%E8%81%BD%E5%8A%9B/</link>
       <pubDate>Mon, 22 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://singrongho.github.io/tags/%E8%8B%B1%E6%96%87%E8%81%BD%E5%8A%9B/</guid>
+      <guid>https://localhost:1313/tags/%E8%8B%B1%E6%96%87%E8%81%BD%E5%8A%9B/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>黃仁勳</title>
-      <link>https://singrongho.github.io/tags/%E9%BB%83%E4%BB%81%E5%8B%B3/</link>
+      <link>https://localhost:1313/tags/%E9%BB%83%E4%BB%81%E5%8B%B3/</link>
       <pubDate>Mon, 22 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://singrongho.github.io/tags/%E9%BB%83%E4%BB%81%E5%8B%B3/</guid>
+      <guid>https://localhost:1313/tags/%E9%BB%83%E4%BB%81%E5%8B%B3/</guid>
       <description></description>
       
     </item>
