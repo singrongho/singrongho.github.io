@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>旅行 on rambler.tw</title>
-    <link>https://localhost:1313/%E6%97%85%E8%A1%8C/eu-astria/</link>
-    <description>Recent content in 旅行 on rambler.tw</description>
+    <title>歐洲 - 🇦🇹 奧地利 on rambler.tw</title>
+    <link>http://localhost:1313/%E6%97%85%E8%A1%8C/eu-astria/</link>
+    <description>Recent content in 歐洲 - 🇦🇹 奧地利 on rambler.tw</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-    <lastBuildDate>Tue, 23 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://localhost:1313/%E6%97%85%E8%A1%8C/eu-astria/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/%E6%97%85%E8%A1%8C/eu-astria/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>奧地利｜維也納西區｜平價住宿與美食推薦</title>
-      <link>https://localhost:1313/%E6%97%85%E8%A1%8C/eu-astria/at-vienna/</link>
+      <link>http://localhost:1313/%E6%97%85%E8%A1%8C/eu-astria/at-vienna/</link>
       <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://localhost:1313/%E6%97%85%E8%A1%8C/eu-astria/at-vienna/</guid>
+      <guid>http://localhost:1313/%E6%97%85%E8%A1%8C/eu-astria/at-vienna/</guid>
       <description>我曾去過奧地利三000000次，雖然因物價考量，都僅短短停留</description>
       
     </item>
