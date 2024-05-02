@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Happy Lab on rambler.tw</title>
+    <link>http://localhost:1313/tags/the-happy-lab/</link>
+    <description>Recent content in The Happy Lab on rambler.tw</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+    <lastBuildDate>Thu, 02 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/the-happy-lab/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>英文聽力｜Podcast｜為什麼我們不害怕氣候變遷？</title>
+      <link>http://localhost:1313/language/eng-listening/listeningjensonhsuffer/</link>
+      <pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/language/eng-listening/listeningjensonhsuffer/</guid>
+      <description>本篇文章帶大家一起聽這部近期我很喜歡的演講片段，大約是英文聽</description>
+      
+    </item>
+    
+  </channel>
+</rss>

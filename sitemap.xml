@@ -3,13 +3,73 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://localhost:1313/travel/</loc>
-    <lastmod>2024-04-23T00:00:00+00:00</lastmod>
+    <loc>https://localhost:1313/tags/b2/</loc>
+    <lastmod>2024-05-02T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://localhost:1313/language/</loc>
+    <lastmod>2024-05-02T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://localhost:1313/tags/podcast/</loc>
+    <lastmod>2024-05-02T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://localhost:1313/tags/the-happiness-lab/</loc>
+    <lastmod>2024-05-02T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://localhost:1313/tags/toeic/</loc>
+    <lastmod>2024-05-02T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://localhost:1313/</loc>
+    <lastmod>2024-05-02T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://localhost:1313/tags/</loc>
+    <lastmod>2024-05-02T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://localhost:1313/tags/%E6%B0%A3%E5%80%99%E8%AE%8A%E9%81%B7/</loc>
+    <lastmod>2024-05-02T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://localhost:1313/tags/%E8%8B%B1%E6%96%87%E8%81%BD%E5%8A%9B/</loc>
+    <lastmod>2024-05-02T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://localhost:1313/language/eng-listening/</loc>
+    <lastmod>2024-05-02T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://localhost:1313/language/eng-listening/listeningclimatechangepsy/</loc>
+    <lastmod>2024-05-02T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://localhost:1313/travel/</loc>
     <lastmod>2024-04-23T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
@@ -39,12 +99,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/tags/</loc>
-    <lastmod>2024-04-23T00:00:00+00:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://localhost:1313/travel/austria/</loc>
     <lastmod>2024-04-23T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
@@ -63,37 +117,19 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://localhost:1313/tags/b1/</loc>
+    <lastmod>2024-04-22T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://localhost:1313/tags/jensen-huang/</loc>
     <lastmod>2024-04-22T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/language/</loc>
-    <lastmod>2024-04-22T00:00:00+00:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://localhost:1313/tags/nvidia/</loc>
-    <lastmod>2024-04-22T00:00:00+00:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://localhost:1313/tags/toeic/</loc>
-    <lastmod>2024-04-22T00:00:00+00:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://localhost:1313/tags/%E8%8B%B1%E6%96%87%E8%81%BD%E5%8A%9B/</loc>
-    <lastmod>2024-04-22T00:00:00+00:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://localhost:1313/language/eng-listening/</loc>
     <lastmod>2024-04-22T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
